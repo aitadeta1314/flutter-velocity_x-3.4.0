@@ -1,0 +1,4 @@
+#Thu Apr 14 14:34:07 CST 2022
+base.0=/Users/fenly/Downloads/velocity_x-3.4.0/example/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
